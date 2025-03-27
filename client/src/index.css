@@ -38,7 +38,7 @@ body {
   background-position: center center;
   margin: 0;
   place-items: center;
-  min-width: 320px;
+  min-width: 300px;
   min-height: 100vh;
 }
 
@@ -68,11 +68,11 @@ button:focus-visible {
 
 main {
   color: black;
-  width: 100%;
+  width: 120%;
   min-height: 100vh;
   display: flex;
-  flex-direction: row;
-}
+  flex-direction: column;
+  }
 
 tr {
   border-radius: 10px;
@@ -140,7 +140,7 @@ tbody tr:nth-child(odd) {
   text-align: center;
   font-weight: 500;
   width: 33%;
-  height: 90vh; 
+  height: 80vh; 
   border: 1px solid rgba(0, 0, 0, 0.2);
   margin: 5px;
   padding: 5px;
@@ -169,7 +169,7 @@ tbody tr:nth-child(odd) {
 }
 
 .container {
-  /* margin: auto; */
+  /* margin: auto;  */
   width: 100%;
   /* height: 90%; */
 }
