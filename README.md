@@ -5,7 +5,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [Video](#video)
+5. [Screenshot](#Screenshot)
 6. [License](#license)
 7. [Questions](#questions)
 
@@ -17,8 +17,8 @@ Deployed application: https://tobedone.github.io/searchapplication/
 Register or log in using valid credentials.After successful login, manage tasks on your Kanban board.Log out to invalidate your session.
 ## Contributing
 Please contribute. If you have a suggestion that would make this better, please fork the repo and create a pull request
-## Video
-There is no available video to demonstrate app functionality
+## Screenshot
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/595040ec-20f8-40c4-99a6-a377881087ca" />
 ## License
 Please visit http://choosealicense.com/licenses/mit/ to get information for this license
 ## Questions
