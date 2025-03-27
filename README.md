@@ -19,6 +19,7 @@ Register or log in using valid credentials.After successful login, manage tasks 
 Please contribute. If you have a suggestion that would make this better, please fork the repo and create a pull request
 ## Screenshot
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/595040ec-20f8-40c4-99a6-a377881087ca" />
+
 ## License
 Please visit http://choosealicense.com/licenses/mit/ to get information for this license
 ## Questions
