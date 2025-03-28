@@ -12,7 +12,7 @@
 ## Description
 Kanban board application using JSON Web Tokens (JWT) for verifying user identities. This project provides a seamless login experience, robust session management, and task organization within a simple Kanban interface.
 ## Installation
-Deployed application: [https://tobedone.github.io/searchapplication/](https://kanban-board-live.onrender.com)
+Deployed application: [Kanban-board](https://kanban-board-live.onrender.com)
 ## Usage
 Register or log in using valid credentials.After successful login, manage tasks on your Kanban board.Log out to invalidate your session.
 ## Contributing
